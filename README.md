@@ -27,4 +27,5 @@ The file "particle_number.txt" contains the expected number of up-spin electrons
 
 ## 参考文献（References）
 [1] A. Cerjan and T. A. Loring, Physical Review B 106, 064109 (2022).
+
 [2] T. A. Loring, Annals of Physics 356, 383 (2015).
